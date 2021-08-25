@@ -26,7 +26,7 @@
 #define BL32_IMAGE_NAME			"bl32.bin"
 #define BL32_EXTRA1_IMAGE_NAME		"bl32_extra1.bin"
 #define BL32_EXTRA2_IMAGE_NAME		"bl32_extra2.bin"
-#define BL33_IMAGE_NAME			"bl33.bin"
+#define BL33_IMAGE_NAME			"u-boot.bin"
 
 #if TRUSTED_BOARD_BOOT
 #define TRUSTED_BOOT_FW_CERT_NAME	"tb_fw.crt"
